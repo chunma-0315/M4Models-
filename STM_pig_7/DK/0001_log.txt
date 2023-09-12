@@ -1,0 +1,12 @@
+Starting STM model . . . 
+STM version 0.4, 15 July 2022
+Date and time: 2023/03/27 19:08:43
+
+Simulation ID: 0001
+User par file: user_pars_pig.txt             
+Par file: pars.txt                      
+Weather file: weather.txt                   
+Level file: level.csv                     
+ 
+Done!
+Run time:    0.0650  seconds
