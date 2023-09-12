@@ -1,0 +1,3 @@
+First, using the STM model to get the daily slurry temperature requires the following information: 
+local daily weather conditions, including: air temperature,  radiation, slurry tank diameter  and Slurry levels  
+Then, using the CH4 model to calculate daily CH4 emissions 
